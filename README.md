@@ -6,7 +6,7 @@
 
 # The name's Bohra, Manit Bohra.
 
-## I am interested in ==Web Dev==, AI and love ⚽.
+## I am interested in Web Dev, AI and love ⚽.
 
 ### **ELVISH BHAII**
 
