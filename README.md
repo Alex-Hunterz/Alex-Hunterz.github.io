@@ -1,4 +1,4 @@
-<h1 align="Centre">Who am I?</h1>
+<h1 align="center"> Who am I? </h1>
 
 ## My name is __BHUPENDRA JOGI__
 
